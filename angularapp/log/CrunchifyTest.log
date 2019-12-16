@@ -1,0 +1,6 @@
+2018-02-05 19:55:39 [qtp1905796157-16] ERROR ClientsController:63 - SQLException: Error in executeUpdate, Data truncation: Incorrect integer value: '' for column 'unwanted' at row 1
+2018-02-05 19:55:39 [qtp1905796157-16] ERROR ClientsController:64 - SQLStackTrace: [Ljava.lang.StackTraceElement;@18205adf
+2018-02-05 19:56:52 [qtp1905796157-20] ERROR ClientsController:63 - SQLException: Error in executeUpdate, Data truncation: Incorrect integer value: '' for column 'unwanted' at row 1
+2018-02-05 19:56:52 [qtp1905796157-20] ERROR ClientsController:64 - SQLStackTrace: [Ljava.lang.StackTraceElement;@3c51634d
+2018-02-05 20:03:11 [qtp645086735-18] ERROR ClientsController:63 - SQLException: Error in executeUpdate, Data truncation: Incorrect integer value: '' for column 'unwanted' at row 1
+2018-02-05 20:03:11 [qtp645086735-18] ERROR ClientsController:64 - SQLStackTrace: [Ljava.lang.StackTraceElement;@212b65c9
